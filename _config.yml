@@ -89,7 +89,7 @@ author:
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Qingchu+Jin"
   googlescholar    : "https://scholar.google.com/citations?user=v0mrZC4AAAAJ&hl=zh-CN&oi=ao"
-  email            :
+  email            : "q.jin@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,14 +98,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Qingchu1995"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "qingchu-jin"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
