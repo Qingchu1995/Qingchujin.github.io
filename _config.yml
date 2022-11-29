@@ -84,10 +84,10 @@ author:
   name             : "Qingchu Jin"
   avatar           : "profile.png"
   bio              : "Associate Research Scientist at Roux Institute, Northeastern University"
-  location         : "Location"
+  location         : "Portland, ME (USA)"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Qingchu+Jin"
+  googlescholar    : "https://scholar.google.com/citations?user=v0mrZC4AAAAJ&hl=zh-CN&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/QingchuJin"
   vine             :
   weibo            :
   xing             :
