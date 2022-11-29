@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Qingchu Jin"
 description              : &description "Associate Research Scientist at Roux Institute"
 # url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : https://qingchu1995.github.io/Qingchujin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qingchu1995.github.io/Qingchujin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
 repository               : "Qingchu1995/Qingchujin.github.io"
@@ -88,7 +88,7 @@ author:
   location         : "Portland, ME (USA)"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Qingchu+Jin"
-  googlescholar    : "https://scholar.google.com/citations?user=v0mrZC4AAAAJ&hl=zh-CN&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=v0mrZC4AAAAJ&hl=en"
   email            : "q.jin@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
