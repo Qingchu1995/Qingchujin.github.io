@@ -22,14 +22,19 @@ Work experience
 * Nov 2021 - Oct 2022: Research investigator in Bristol Myers Squibb
   * Quantitative system pharamcology modeling of cardiovascular drugs
   
-Skills
+Knowledge & Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cardiac electrophysiology
+* Mechanistic modeling
+  * ODE modeling
+  * Stochastic process
+* Data science
+  * deep learning
+  * PyTorch
+* Coding
+  * C++
+  * Python
+  * Matlab
 
 Publications
 ======
