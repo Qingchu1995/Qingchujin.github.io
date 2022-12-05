@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biomedical Engineering, Shanghai Jiao Tong University, 2017
+* Ph.D in Biomedical Engineering, Johns Hopkins School of Medicine, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant in Merck & Co.
+  * PBPK modeling of HIV PrEF drug with the vaginal ring formulation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2021 - Oct 2022: Research investigator in Bristol Myers Squibb
+  * Quantitative system pharamcology modeling of cardiovascular drugs
   
 Skills
 ======
