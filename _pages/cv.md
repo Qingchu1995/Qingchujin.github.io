@@ -53,7 +53,7 @@ The award recognizes excellence in critical care research
 The award recognizes excellent submissions in the field of cardiac and trauma resuscitation science that are conducted by investigators in their early careers
 * Gakenheimer Fellowship | Institute for Computational Medicine 2019 - 2020
 
-Conferences
+<!-- Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -63,7 +63,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
