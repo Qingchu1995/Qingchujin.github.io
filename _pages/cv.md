@@ -46,12 +46,12 @@ Publications
 
 Honors & Award
 ======
-* 2022 Student Research Achievement Award | Annual Meeting of Biophyscial Society
+* 2022 Student Research Achievement Award, Annual Meeting of Biophyscial Society 
 * Star Research Achievement Award | Society of Critical Care Medicine 2020
 The award recognizes excellence in critical care research
 * Young Investigator Award | Resuscitation Science Symposium, American Heart Association 2019
 The award recognizes excellent submissions in the field of cardiac and trauma resuscitation science that are conducted by investigators in their early careers
-* Gakenheimer Fellowship | Institute for Computational Medicine 2019 - 2020
+* Gakenheimer Fellowship, Institute for Computational Medicine 2019 - 2020
 
 <!-- Conferences
 ======
