@@ -16,11 +16,13 @@ Education
 
 Work experience
 ======
-* Summer 2020: Research Assistant in Merck & Co.
-  * PBPK modeling of HIV PrEF drug with the vaginal ring formulation
+* Oct 2022 - present: Associate Research Scientist in Roux Institute at Northeastern University
 
 * Nov 2021 - Oct 2022: Research investigator in Bristol Myers Squibb
   * Quantitative system pharamcology modeling of cardiovascular drugs
+
+* Summer 2020: Research Assistant in Merck & Co.
+  * PBPK modeling of HIV PrEF drug with the vaginal ring formulation  
   
 Knowledge & Skills
 ======
@@ -41,8 +43,17 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honors & Award
+======
+* 2022 Student Research Achievement Award | Annual Meeting of Biophyscial Society
+* Star Research Achievement Award | Society of Critical Care Medicine 2020
+The award recognizes excellence in critical care research
+* Young Investigator Award | Resuscitation Science Symposium, American Heart Association 2019
+The award recognizes excellent submissions in the field of cardiac and trauma resuscitation science that are conducted by investigators in their early careers
+* Gakenheimer Fellowship | Institute for Computational Medicine 2019 - 2020
+
+Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Business development & Services Department, Sino-American Pharmaceutical Professionals Association (SAPA-HQ)
